@@ -13,7 +13,7 @@ I'm a frontend developer from Saint-p.
 I'm interested in web development.
 Love learning new technologies, tools and anything that can help me in my work. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
-### 💻 Stack:
+## 💻 Stack:
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -31,7 +31,7 @@ Love learning new technologies, tools and anything that can help me in my work. 
 
 ---
 
-### 🛠 Tools:
+## 🛠 Tools:
 
 <div>
   <img src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
