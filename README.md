@@ -34,10 +34,10 @@ Love learning new technologies, tools and anything that can help me in my work. 
 ## 🛠 Tools:
 
 <div>
-  <img src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
-  <img src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/PhpStorm_Icon.png/120px-PhpStorm_Icon.png" title="PhpStorm" alt="PhpStorm" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/PhpStorm_Icon.png/120px-PhpStorm_Icon.png" title="PhpStorm" alt="PhpStorm" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/512px-UbuntuCoF.svg.png" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/512px-UbuntuCoF.svg.png" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
 </div>
 
